@@ -1,2 +1,2 @@
 # Altium-Packages
-## 01: MPU-6050
+## 01-  MPU-6050

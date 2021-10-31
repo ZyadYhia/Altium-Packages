@@ -6,3 +6,4 @@
 ## 05-  ESP-01-SnapEDA
 ## 06-  AMS1117-3.3
 ## 07-  Push-4Pins Throw Hole
+## 08-  Push-4Pins SMD

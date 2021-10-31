@@ -8,3 +8,4 @@
 ## 07-  AMS1117-5
 ## 08-  Push-4Pins Throw Hole
 ## 09-  Push-4Pins SMD
+## 10-  Resistor-SMD-1206

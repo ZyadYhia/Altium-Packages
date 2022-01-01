@@ -9,6 +9,7 @@
 ## 08-  Push-4Pins Throw Hole
 ## 09-  Push-4Pins SMD
 ## 10-  Resistor-SMD-1206
+## 11-  Regulator-LM317T
 
 # Altium-3D
 ## 01-  Female Header single line strait
